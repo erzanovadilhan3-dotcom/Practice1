@@ -1,0 +1,6 @@
+x = int(1)   
+y = int(9.8) 
+z = int("38") 
+t = float("4")
+s = str("d1")
+print(x, y, z, t, s)

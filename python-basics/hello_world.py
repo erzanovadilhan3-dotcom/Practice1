@@ -1,0 +1,5 @@
+print("Hello,World!")
+print('Hi there!')
+print("Python is awesome")
+print("privet ")
+print("poka")
